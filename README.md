@@ -1,5 +1,5 @@
 # FoodieGo-Food-Delivery-App
-A modern food delivery mobile app UI/UX design created in figma.
+A modern food delivery mobile app UI/UX designed in figma.
 
 ## Overview
 
